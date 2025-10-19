@@ -21,4 +21,5 @@ Top Order item is Chicken Bowl,Chicken Burrito,Chips and Guacamole,Steak Burrito
 
 
 ### Popular add on item
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d5aed0cb-55fc-44f8-8b95-e0f832b93859" />
+<img width="237" height="355" alt="image" src="https://github.com/user-attachments/assets/0a8a71e9-852f-41b1-affc-41bab03773c2" />
+
